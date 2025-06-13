@@ -1,16 +1,21 @@
-## Fala mano, tudo certo ?👋
+# 👩🏻‍💻 Gabriel Nascimento
 
 
-- 🔭 Hoje estou trabalhando como Suporte, mas meu foco é ser desenvolvedor.
-- 🌱 Estou estudando Python quase todos os dias.
-- 😄 Gosto sempre de aprender coisas novas, que me prendam a elas.
+**`Desenvolvedor Python`**
 
+Me chamo Gabriel Nascimento, tenho 24 anos e sempre fui apaixonado por tecnologia. Concluí o ensino médio na ETEC, junto com o curso técnico em Informática. Cheguei a ingressar na FATEC, mas acabei não me identificando com o curso. Depois disso, optei por seguir na área e iniciei a graduação em Análise e Desenvolvimento de Sistemas em uma faculdade particular. Sempre gostei de programar, mas fiquei um tempo afastado... até que em 2025 decidi retomar com tudo e começar a registrar minha trajetória por aqui.
+
+<br>
+
+### 📊 Estatísticas
 <div>
   <a href="https://beacons.ai/caraize">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caraize&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caraize&layout=compact&langs_count=16&theme=dark"/>
   </a>
+  
 </div>
 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
