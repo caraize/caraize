@@ -1,5 +1,9 @@
 # 👩🏻‍💻 Gabriel Nascimento
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&pause=1000&color=4C81F7&background=2BFF5A00&center=true&vCenter=true&width=435&lines=Salve+meus+manos" alt="Typing SVG">
+  </a>
+</div>
 
 **`Desenvolvedor Python`**
 
