@@ -5,7 +5,7 @@
   </a>
 </div>
 
-**`Desenvolvedor Python`**
+**`Analista de Dados`**
 
 Me chamo Gabriel Nascimento, tenho 24 anos e sempre fui apaixonado por tecnologia. Concluí o ensino médio na ETEC, junto com o curso técnico em Informática. Cheguei a ingressar na FATEC, mas acabei não me identificando com o curso. Depois disso, optei por seguir na área e iniciei a graduação em Análise e Desenvolvimento de Sistemas em uma faculdade particular. Sempre gostei de programar, mas fiquei um tempo afastado... até que em 2025 decidi retomar com tudo e começar a registrar minha trajetória por aqui.
 
